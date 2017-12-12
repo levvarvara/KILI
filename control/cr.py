@@ -14,7 +14,6 @@ for n in text_el:
         list_20.append(n)
 print("В слове по крайне мере 20 символов:")
 print()
-#Я делаю вывод первых 100 элементов: 
 for n in list_20:
     print(n)
 counter = 0
